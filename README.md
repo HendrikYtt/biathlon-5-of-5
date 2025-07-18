@@ -4,8 +4,6 @@
 
 Ever wondered if you could predict who'll nail those standing shots or which athlete will dominate the sprint? **Biathlon 5 of 5** is where biathlon fans come to test their knowledge and compete with friends in real-time.
 
-**Live at**: [https://www.biathlon5of5.com/](https://www.biathlon5of5.com/)
-
 ---
 
 ## What I've built so far
