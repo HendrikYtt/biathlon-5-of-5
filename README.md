@@ -1,15 +1,15 @@
-# 🎯 Biathlon 5 of 5
+# ⛷️ Biathlon 5 of 5
 
 Biathlon 5 of 5 was a biathlon prediction application that processed over **10,000 user predictions**.
 
 The platform automatically calculated results and updated leaderboards without any manual work needed.
 Users could make predictions on over 50 different markets:
 
-**Race outcomes**: Pick winners, podium finishers, and performance rankings, etc.
+- **Race outcomes**: Pick winners, podium finishers, and performance rankings
 
-**Shooting performance**: Predict penalties, shooting times, and accuracy, etc.
+- **Shooting performance**: Predict penalties, shooting times, and accuracy
 
-**Time-based markets**: Fastest splits, lap times, and overall performance, etc.
+- **Time-based markets**: Fastest splits, lap times, and overall performance
 
 ---
 
@@ -19,7 +19,7 @@ Users could make predictions on over 50 different markets:
 - Create private leagues with friends or join public ones
 - Watch your ranking change as races unfold
 - Predict everything from race winners to shooting penalties
-- Works great on mobile - perfect for watching races
+- Works great on both mobile and desktop
 - Clean admin interface for creating new prediction markets
 - Automatic integration with biathlon race data
 - Real-time leaderboard updates
