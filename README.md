@@ -27,8 +27,6 @@ Users could make predictions on over 50 different markets:
 
 ---
 
----
-
 ## How it's built
 
 **Frontend**: Next.js 14 with TypeScript, styled with Tailwind CSS and DaisyUI components
